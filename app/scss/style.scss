@@ -1,10 +1,11 @@
 // Reset style
 @import "reset";
 
-
 @import "fonts";
+@import "../../node_modules/slick-carousel/slick/slick.scss";
 @import "vars";
 @import "global";
 @import "blocks/header";
 @import "blocks/search";
 @import "blocks/products";
+@import "blocks/products-slider";
